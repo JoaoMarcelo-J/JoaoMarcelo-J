@@ -2,7 +2,6 @@
 
 <p>💻 this is the page of a technology lover ❤️ and web developer in his spare time (all the time)  </p>
 
-<hr>
 
 > <h2>🚀 About </h2>
 
