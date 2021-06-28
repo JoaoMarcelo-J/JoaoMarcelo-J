@@ -13,6 +13,7 @@
 
 <p>🎒 Student at Rocketseat 🚀 Ignite 🔥 React ✨ and TreinaWeb studant 🕸️</p>
 
+
 <p>🌐 "The journey of a thousand miles begins with one stepd" - I dont know who said that but Ive always heard it from my grandmother</p>
 
 
