@@ -2,8 +2,12 @@
 
 <img align="right" width='120px' heigth='120px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png'>
 
+<br>
+
 <p>💻 this is the page of a technology lover ❤️ and web developer in his spare time (all the time)  </p>
 
+
+<br>
 
 > <h2>🚀 About </h2>
 
