@@ -1,16 +1,19 @@
-### Hi there 👋
+> <h1>Hello, World ✨</h1>
 
-<!--
-**JoaoMarcelo-J/JoaoMarcelo-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>💻 this is the page of a technology lover ❤️ and web developer in his spare time (all the time)  </p>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> <h2>🚀 About </h2>
+
+<p>🎒 Student at Rocketseat 🚀 Ignite 🔥 React ✨ and TreinaWeb studant 🕸️</p>
+
+<p>🌐 "The journey of a thousand miles begins with one stepd" - Author : I dont know but Ive always heard it from my grandma</p>
+
+
+
+
+
+
+
+
