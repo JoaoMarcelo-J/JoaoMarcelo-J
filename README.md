@@ -1,6 +1,6 @@
 > <h2>Hello, World ✨</h2>
 
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png'>
+<img width='80px' heigth='80px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png'>
 
 <p>💻 this is the page of a technology lover ❤️ and web developer in his spare time (all the time)  </p>
 
