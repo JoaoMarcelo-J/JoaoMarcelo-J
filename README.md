@@ -12,7 +12,10 @@
 > <h2>🚀 About </h2>
 
 <p>🎒 Student at Rocketseat 🚀 Ignite 🔥 React ✨ and TreinaWeb studant 🕸️</p>
-
+<p>
+<br>
+<p>☎️ You can talk to me around here: joaonininho.twt@gmail.com </p>
+<br>
 
 <p>🌐 "The journey of a thousand miles begins with one stepd" - I dont know who said that but Ive always heard it from my grandmother</p>
 
