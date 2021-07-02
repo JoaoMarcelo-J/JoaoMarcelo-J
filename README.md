@@ -21,6 +21,15 @@
 
 <p>🌐 "The journey of a thousand miles begins with one stepd" - I dont know who said that but Ive always heard it from my grandmother</p>
 
+<br>
+
+<div>
+  <a href="https://github.com/JoaoMarcelo-J">
+<img max-width="50%" height="150px" src="https://github-readme-stats.vercel.app/api?username=JoaoMarcelo-J&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+<img max-width="50%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMarcelo-J&layout=compact&langs_count=16&theme=react"/>
+  </a>                                                                                                                                
+</div>
+
 
 
 
