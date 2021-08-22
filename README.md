@@ -15,7 +15,7 @@
 
 <br>
 
-<p>☎️ You can talk to me around here: <a href='mailto:joaonininho.twt@gmail.com?Subject=Título%20da%20mensagem"'>joaonininho.twt@gmail.com <a/></p>
+<p>☎️ You can talk to me around here: <a href='mailto:joaonininho.twt@gmail.com?Subject=Título%20da%20mensagem"'>joaonininho.twt@gmail.com  <a/></p>
   
 <br>
 
