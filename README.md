@@ -15,7 +15,7 @@
 
 <br>
 
-<p>🌇 Front-End developer from Foton Tech <a/></p>
+<p>🌇 Software Enginer<a/></p>
   
 <br>
 
