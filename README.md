@@ -11,7 +11,7 @@
 
 > <h2>🚀 About </h2>
 
-<p>🎒 Student at Rocketseat 🚀 Ignite 🔥 React ✨ and TreinaWeb studant  🕸️</p>
+<p>🎒 Student at Rocketseat 🚀 Ignite 🔥 React ✨ and TreinaWeb  🕸️</p>
 
 <br>
 
