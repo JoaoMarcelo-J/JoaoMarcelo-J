@@ -15,7 +15,7 @@
 
 <br>
 
-<p>🌇 Software Enginer - Front-End / Blockchain<a/></p>
+<p>🌇 Software Engineer - Front-End / Blockchain<a/></p>
   
 <br>
 
