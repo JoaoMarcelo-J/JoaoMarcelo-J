@@ -15,6 +15,7 @@
 
 <br>
 
+<p>UI Designer - Figma<a/></p>
 <p>🌇 Software Engineer - Front-End / Blockchain<a/></p>
   
 <br>
