@@ -11,7 +11,7 @@
 
 > <h2>🚀 About </h2>
 
-<p>🎒 Student at Rocketseat 🚀 Ignite 🔥 React ✨ and TreinaWeb  🕸️</p>
+<p>🎒 Student at Rocketseat 🚀 Ignite 🔥 React ✨</p>
 <p>🏫 Studying systems analysis and development<p>
 
 <br>
