@@ -14,7 +14,6 @@
 <p>🎒 Student at Rocketseat 🚀 Ignite 🔥 React ✨</p>
 <p>🏫 Studying systems analysis and development<p>
 
-<br>
 
 <p>UI Designer - Figma<a/></p>
 <p>🌇 Software Engineer - Front-End / Blockchain<a/></p>
