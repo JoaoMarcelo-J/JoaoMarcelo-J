@@ -4,7 +4,7 @@
 
 <br>
 
-<p>💻 this is the page of a technology lover ❤️ and software engineer  </p>
+<p>💻 this is the page of a technology and web3 lover ❤️ software engineer  </p>
 
 
 <br>
